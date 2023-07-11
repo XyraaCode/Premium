@@ -1,4 +1,4 @@
-# XyraMBF
+# NGENTOT
 
 <h5 align="left">CARA INSTALL SCRIPT:</h5>
 
